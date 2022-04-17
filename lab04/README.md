@@ -2,4 +2,4 @@
 
 ## Arquivos Java sobre Lombriga no Aquário
 
-[Arquivos .java](src/pt/c02oo/s03relacionamentos/s04restaum)
+[Arquivos .java](src/pt/c02oo/s03relacionamento/s04restaum)
