@@ -1,0 +1,56 @@
+# Tabuleiro inicial
+  PPP  
+  PPP  
+PPPPPPP
+PPP-PPP
+PPPPPPP
+  PPP  
+  PPP  
+# source: f4; target: d4
+  PPP  
+  PPP  
+PPPPPPP
+PPPP--P
+PPPPPPP
+  PPP  
+  PPP  
+# source: c4; target: e4
+  PPP  
+  PPP  
+PPPPPPP
+PP--P-P
+PPPPPPP
+  PPP  
+  PPP  
+# source: c2; target: c4
+  PPP  
+  -PP  
+PP-PPPP
+PPP-P-P
+PPPPPPP
+  PPP  
+  PPP  
+# source: b4; target: d4
+  PPP  
+  -PP  
+PP-PPPP
+P--PP-P
+PPPPPPP
+  PPP  
+  PPP  
+# source: c6; target: c4
+  PPP  
+  -PP  
+PP-PPPP
+P-PPP-P
+PP-PPPP
+  -PP  
+  PPP  
+# source: d4; target: b4
+  PPP  
+  -PP  
+PP-PPPP
+PP--P-P
+PP-PPPP
+  -PP  
+  PPP  
